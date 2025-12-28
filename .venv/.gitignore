@@ -1,0 +1,13 @@
+# venv
+.venv/
+__pycache__/
+
+# logs & screenshots
+logs/
+screenshots/
+
+# data（サンプルだけ残すなら csv は除外）
+data/*.csv
+
+# OS
+.DS_Store
